@@ -5,7 +5,6 @@ RUN mkdir /code
 COPY requirements.txt /code
 
 RUN pip3 install -r /code/requirements.txt
-RUN pip3 install gunicorn
 RUN pip3 install psycopg2
 
 COPY . /code
