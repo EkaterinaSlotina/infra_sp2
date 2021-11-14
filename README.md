@@ -8,8 +8,8 @@ This is basic prject to practis how to launch django using docker and docker-com
 - [Django](https://www.djangoproject.com/) - framework for web aplications
 - [PostgreSQL](https://www.postgresql.org/) - database, where we store all data
 - [Gunicorn](https://gunicorn.org/) - web server for python applications
-- [Nginx] - we use Nginx to send static files and proxy requests to our main server
-- [Docker] - we use it to launch all our applications in different containers
+- [Nginx](https://www.nginx.com/) - we use Nginx to send static files and proxy requests to our main server
+- [Docker](https://www.docker.com/) - we use it to launch all our applications in different containers
 
 ## How to install
 To clone this repo you can use git clone
